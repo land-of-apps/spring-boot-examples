@@ -1,0 +1,4 @@
+name: spring-boot-examples
+packages:
+- path: org.springframework.jdbc
+- path: com.in28minutes
